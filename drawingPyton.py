@@ -1,5 +1,1 @@
-'''
-Documentation, License etc.
-
-@package drawingPyton
-'''
+print('puppo forte')
